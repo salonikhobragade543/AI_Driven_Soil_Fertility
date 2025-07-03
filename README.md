@@ -53,5 +53,4 @@ The model predicts the fertility class of a given soil sample based on its nutri
 - Deploy as a web app for farmer access
 - Integrate with real-time soil sensors
 
-## 📁 Folder Structure
 
